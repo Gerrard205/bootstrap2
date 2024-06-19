@@ -1,0 +1,89 @@
+
+#topheader{
+    background-color:whitesmoke;
+    border-bottom: 1px solid silver;
+}
+#topheader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+.nav-item{
+    padding:5px ;
+}
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+.bags{
+    text-align: center;
+}
+.bags img{
+    display:block
+}
+.bags .btn{
+    margin-top: 20px;
+    margin-right: 120px;
+}
+
+.kitchen{
+    text-align: center;
+}
+.kitchen img{
+    display: block;
+    margin: 0 auto;
+}
+.kitchen .btn {
+    margin-top: 10px;
+}
+.shoes{
+    text-align: center;
+}
+.shoes img{
+    display: block;
+    margin: 0 auto;
+}
+.shoes .btn {
+    margin-top: 20px;
+}
+.clothes{
+    text-align: center;
+}
+.clothes img{
+    display: block;
+    margin: 0 auto;
+}
+.clothes .btn {
+    margin-top: 20px;
+}
+h6{
+    color: whitesmoke;
+}
+.top-footer{
+    background-color: #c0c9d2;
+    margin-top: 10px;
+}
+.top-footer p{
+    color: rgb(110, 96, 96);
+    padding-top: 5px;
+}
+.logo{
+    text-align: center;
+}
+.media{
+    display: block;
+    text-align: center;
+}
+.contact {
+   text-align: center;
+}
+.bottom-footer{
+    background-color: black;
+}
+.bottom-footer p{
+    color: rgb(185, 122, 122);
+}
